@@ -42,7 +42,7 @@ Then firstly run the server side
 $python server.py
 
 ```
-After firstly run the user side
+After run the user side
 ```
 $python gui_chat.py
 
